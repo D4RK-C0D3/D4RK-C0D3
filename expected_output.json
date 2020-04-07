@@ -1,0 +1,31 @@
+{
+	"facebook": [
+		{
+			"User": "username",
+			"email": "example@email.com",
+			"pass": "random_generated_password",
+			"created on": "date"
+		},
+		{
+			"User": "username",
+			"email": "example@email.com",
+			"pass": "random_generated_password",
+			"created on": "date"
+		}
+	],
+
+	"gmail": [
+		{
+			"User": "username",
+			"email": "example@email.com",
+			"pass": "random_generated_password",
+			"created on": "date"
+		},
+		{
+			"User": "username",
+			"email": "example@email.com",
+			"pass": "random_generated_password",
+			"created on": "date"
+		}
+	]
+}

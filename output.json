@@ -1,0 +1,25 @@
+{
+  "facebook": {
+    "name": "username",
+    "email": "example@email.com",
+    "pass": "password"
+  }
+}{
+  "facebook": {
+    "name": "username",
+    "email": "example@email.com",
+    "pass": "password"
+  }
+}{
+  "gmail": {
+    "name": "username",
+    "email": "example@email.com",
+    "pass": "password"
+  }
+}{
+  "gmail": {
+    "name": "username",
+    "email": "example@email.com",
+    "pass": "password"
+  }
+}
