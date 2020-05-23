@@ -27,7 +27,7 @@ media = [file for file in files if os.path.splitext(file)[1].lower() in mediaExt
 archExts = [".zip",".gz",".7z",".rar",".tar"]
 archives = [file for file in files if os.path.splitext(file)[1].lower() in archExts ]
 
-codeExts = [".asm",".c",".cpp",".css",".html",".js",".json",".py",".xml",".php",".rb"]
+codeExts = [".asm",".c",".cpp",".css",".html",".js",".json",".py",".xml",".php",".rb",".java"]
 code = [file for file in files if os.path.splitext(file)[1].lower() in codeExts ]
 
 
