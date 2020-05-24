@@ -8,7 +8,7 @@
 
 
  - #### Password Generator :
-     - Generate A Random Password
+     - Generate A Random Password Using `Python`
      - Encrypt That Password With A Hashing Algorithum
      - Keep That Password Safely In A Database
 
