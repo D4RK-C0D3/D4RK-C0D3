@@ -1,15 +1,16 @@
 # D4RK-C0D3
 
 
-> This is my test directory
+> This is my personal directory and this directory is dedicated to my upcomming projects.
 
 
-## Learn HTML
+## Upcomming/Future Projects :
 
 
- HTML is the standard markup language for Web pages.
- With HTML you can create your own Website.
- HTML is easy to learn - You will enjoy it!
+ - #### Password Generator :
+     - Generate A Random Password
+     - Encrypt That Password With A Hashing Algorithum
+     - Keep That Password Safely In A Database
 
 
 
