@@ -15,4 +15,6 @@
 - #### File/Clutter Organizer :
      - Generate A `Python` Code To Organize My Clutters/Files in a Minimilastic Way
 
-
+- #### Active Directory Search :
+     - Generate A `Python` Code That Can Search Hidden Directories From A Given Website
+     
