@@ -12,6 +12,7 @@
      - Encrypt That Password With A Hashing Algorithum
      - Keep That Password Safely In A Database
 
-
+- #### File/Clutter Organizer :
+     - Generate A Python Code To Organize My Clutters/Files in a Minimilastic Way
 
 
