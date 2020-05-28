@@ -1,3 +1,3 @@
-# `RESOURCES :`
+# RESOURCES :
 
-> ### Best Books & Resources To Learn Ethecal Hacking.
+ ### `Best Books & Resources To Learn Ethecal Hacking.`
