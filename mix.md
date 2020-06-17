@@ -79,7 +79,7 @@ binary data but that is a [Spoon]() cipher as the last highlited word from the c
 & yeah I got the last part of the flag as well.
 
 ```
-_411_7h3_ski115}
+_411_7h3_ski115}
 
 ```
 
